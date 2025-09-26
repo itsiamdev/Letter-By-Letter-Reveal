@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #3991f5;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  overflow: hidden;
+}
+.text-container {
+  text-align: center;
+  font-size: 2.5rem;
+}
